@@ -24,3 +24,7 @@ git remote add skirptimine https://github.com/siimeonsikora/skriptimine.git
 
 b) git remote kontroll
 git remote -v
+
+c) lisa kaugrepositooriumi
+git push-uf skiriptimine master
+
