@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# Ülesanne 2
+#
+echo -n "Siimeon Sikora " #väljastab eesnime ja perekonnanime
+echo -n "IS19 " #õppegrupp
+echo -n "Normaalne " #kuidas tundub aine
+echo -n "Loodetavasti saab hakkama " # praegune mulje ja edasijõudmine
+#
+#skripti lõpp
